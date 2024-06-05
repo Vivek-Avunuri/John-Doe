@@ -1,0 +1,80 @@
+
+
+.navbar{
+    background-color: #a8d5ba !important;
+}
+
+.logo{
+    font-family: 'Tenor Sans';
+    font-size: 20px;
+    color: #326100 !important;
+}
+.nav-item .nav-link {
+    font-family: 'assistant';
+    color: #326100 !important;
+    font-size: 16px;
+}
+
+
+.bg-home{
+    background-color: #a8d5ba;
+}
+.image-1{
+    height: 300px;
+    width:200px;
+    object-fit: cover;
+    object-position:center ;
+    border-radius: 100px;
+}
+.name{
+    font-family: 'Tenor sans';
+    font-size: 33px;
+    font-weight: 500;
+    color: #326100;
+}
+.intro{
+    font-family: 'assistant';
+    font-size: 16.8px;
+}
+.session-button{
+    font-family: 'assistant';
+    font-size: 16px;
+    height: 35px;
+    width: 200px;
+    border-radius: 18px;
+    border-width: 0px;
+    background:linear-gradient(to right,#0a470c,#59a886) ;
+    color: white;
+    transition: all 0.3s ease;
+}
+.session-button:hover{
+    box-shadow: 0 0 10px 3px  #0a470c79;
+}
+
+
+
+.padding{
+    padding-top: 91px;
+    
+}
+.bg-about{
+    background-color: #faf9f8;
+}
+.image-2{
+    height: 90%;
+    width: 350px;
+}
+.image-3{
+    height: 95%;
+    width: 300px;
+
+}
+.image-4{
+    height: 200px;
+    width: 185px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+.margin{
+    padding-bottom: 0px ;
+}
