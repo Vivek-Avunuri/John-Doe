@@ -1,4 +1,7 @@
-
+html{
+    scroll-padding-top: 50px;
+    scroll-behavior: smooth;
+}
 
 .navbar{
     background-color: #a8d5ba !important;
