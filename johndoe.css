@@ -28,7 +28,18 @@ html{
     object-fit: cover;
     object-position:center ;
     border-radius: 100px;
+    animation: floatAnimation 5s infinite alternate ease-in-out;
 }
+
+@keyframes floatAnimation {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-10px); 
+    }
+}
+
 .name{
     font-family: 'Tenor sans';
     font-size: 33px;
